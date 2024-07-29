@@ -8,3 +8,9 @@ Features:  Interactive bars with tooltips
 
 
 Data Source: https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/GDP-data.json
+
+
+Setup Instructions:
+
+Clone this repository.
+Open index.html in a web browser to view the chart.
