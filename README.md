@@ -12,5 +12,5 @@ Data Source: https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData
 
 Setup Instructions:
 
-Clone this repository.
-Open index.html in a web browser to view the chart.
+1.Clone this repository.
+2.Open index.html in a web browser to view the chart.
